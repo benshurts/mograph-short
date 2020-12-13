@@ -1,0 +1,5 @@
+Load warnings for C:/Users/benja/Documents/git/mograph-short/Houdini/Main Project/mainscene.hiplc
+
+Warning:     "/obj/SNEK/geo1/Pack_Pieces" using incomplete asset definition (full definition not found).
+             The following node types are using incomplete asset definitions:
+    Sop/pack_pieces
